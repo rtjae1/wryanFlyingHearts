@@ -60,7 +60,7 @@
   height: 125px;
   width: 125px;
   background-size: 125px 125px;
-  background-image: url("/assets/img/wryanHeart.png");
+  background-image: url("./assets/img/wryanHeart.png");
   background-repeat: no-repeat;
   transition: all 0.3s ease-in-out;
   animation: bot-icon 1.2s ease infinite;
